@@ -1,0 +1,1 @@
+/workspaces/operatingsystems/Rustpractice/temperatureconverter/target/debug/temperature_comverter: /workspaces/operatingsystems/Rustpractice/temperatureconverter/src/main.rs
